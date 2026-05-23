@@ -1,6 +1,6 @@
-# pwc-databricks-platform-poc
+# Lakehouse-AI-Platform
 
-A proof-of-concept Databricks lakehouse platform demonstrating data platform engineering capabilities for enterprise consulting environments.
+A personal data platform project implementing medallion architecture (Bronze/Silver/Gold), column-level lineage tracking, data governance engine, and DAG-based notebook orchestration built to demonstrate production-grade data platform engineering.
 
 ## Architecture
 
