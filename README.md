@@ -29,7 +29,7 @@ Data governance and lineage tracking system:
 ## Project Structure
 
 ```
-pwc-databricks-platform-poc/
+lakehouse-ai-platform/
 ├── README.md
 ├── requirements.txt
 ├── src/
@@ -60,6 +60,7 @@ pytest tests/ -v
 - Designed for Databricks / Apache Spark (runs standalone for demonstration)
 - Delta Lake medallion architecture patterns
 - DAG-based workflow orchestration
+- pytest (comprehensive unit test coverage)
 
 ## Author
 
